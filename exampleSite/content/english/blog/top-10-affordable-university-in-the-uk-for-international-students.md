@@ -2,7 +2,6 @@
 author = "AHZ Associates"
 date = 2021-11-15T18:00:00Z
 description = ""
-draft = true
 image = "/images/close-1.JPG"
 image_webp = "/images/strong-growth-in-uks-international-student-enrolment.jpg"
 title = "Top 10 Affordable University in the UK for International Students"
