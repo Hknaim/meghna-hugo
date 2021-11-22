@@ -2,7 +2,6 @@
 author = "AHZ Associates"
 date = 2021-11-21T18:00:00Z
 description = ""
-draft = true
 image = "/images/pexels-soumil-kumar-735911.jpg"
 image_webp = ""
 title = "Grounds for Cloud Computing’s Popularity in the UK"
