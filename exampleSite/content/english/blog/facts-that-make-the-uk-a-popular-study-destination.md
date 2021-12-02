@@ -2,7 +2,6 @@
 author = ""
 date = 2021-12-15T18:00:00Z
 description = ""
-draft = true
 image = "/images/pexels-anastasiya-gepp-1462630.jpg"
 image_webp = ""
 title = "Facts that Make the UK a Popular Study Destination "
