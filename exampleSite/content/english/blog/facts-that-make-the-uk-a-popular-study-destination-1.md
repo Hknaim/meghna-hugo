@@ -2,7 +2,6 @@
 author = "AHZ Associates"
 date = ""
 description = ""
-draft = true
 image = "/images/pexels-anastasiya-gepp-1462630.jpg"
 image_webp = ""
 title = "Facts that Make the UK a Popular Study Destination"
